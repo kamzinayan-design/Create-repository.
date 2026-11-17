@@ -1,0 +1,25 @@
+# Секреты
+.env
+*.env
+secrets/
+*.key
+
+# Базы 1С и временные файлы
+*.1CD
+*.cfl
+*.lgf
+*.lgp
+*.dt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# Система
+.DS_Store
+Thumbs.db
